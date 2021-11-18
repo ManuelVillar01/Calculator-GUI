@@ -1,3 +1,3 @@
 # Calculator-GUI
 TKInter Calculator
-Made with TKInter with love.
+Made in TKInter with love.
